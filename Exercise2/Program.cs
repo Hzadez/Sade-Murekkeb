@@ -12,19 +12,26 @@ namespace Exercise2
             int count = 0;
             for (int i = 1; i <= n; i++)
             {
-                if (i % n == 0)
+                if (n % i == 0)
                 {
-                    Console.WriteLine($"Daxil olan {n} ededi sade ededdir");
-                    count++;
+                  count++;
                 }
-                else if ((i % n == 0) && (i % n == 1) && (count > 2))
-                {
-                    Console.WriteLine($"{n} ededi murekkeb ededdir");
-                    
-                }
+
             }
+                if (count > 2)
+                {
+                    Console.WriteLine($"Daxil olan {n} ededi murekkeb ededdir");
+                }
+                else if (n == 0 || n == 1)
+                {
+                    Console.WriteLine($"{n} ededi 0 ve 1 olmaz");
+                }
+                else
+                {
+                    Console.WriteLine($"{n} ededi sade ededdir");
+                }        
 
-
+            
         }
     }
 }

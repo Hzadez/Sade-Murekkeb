@@ -5,15 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C4245F6-FC93-4019-BBC9-E90AB48C4CCE}|Exercise2\\Exercise2.csproj|c:\\users\\hzade\\desktop\\backend\\exercise2\\exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C4245F6-FC93-4019-BBC9-E90AB48C4CCE}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hzade\\Desktop\\Backend\\PB503-DataTypes-Condition-Loop-main\\PB503DataTypes\\PB503DataTypes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hzade\\Desktop\\PB503_IntroTask-main\\CsharpIntro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hzade\\Desktop\\Backend\\Lab(1)\\Lab(1)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,51 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hzade\\Desktop\\PB503_IntroTask-main\\CsharpIntro\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\PB503_IntroTask-main\\CsharpIntro\\Program.cs",
-              "ToolTip": "C:\\Users\\hzade\\Desktop\\PB503_IntroTask-main\\CsharpIntro\\Program.cs",
-              "RelativeToolTip": "..\\..\\PB503_IntroTask-main\\CsharpIntro\\Program.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T19:52:20.054Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hzade\\Desktop\\Backend\\Lab(1)\\Lab(1)\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Lab(1)\\Lab(1)\\Program.cs",
-              "ToolTip": "C:\\Users\\hzade\\Desktop\\Backend\\Lab(1)\\Lab(1)\\Program.cs",
-              "RelativeToolTip": "..\\Lab(1)\\Lab(1)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:22:13.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hzade\\Desktop\\Backend\\PB503-DataTypes-Condition-Loop-main\\PB503DataTypes\\PB503DataTypes\\Program.cs",
-              "RelativeDocumentMoniker": "..\\PB503-DataTypes-Condition-Loop-main\\PB503DataTypes\\PB503DataTypes\\Program.cs",
-              "ToolTip": "C:\\Users\\hzade\\Desktop\\Backend\\PB503-DataTypes-Condition-Loop-main\\PB503DataTypes\\PB503DataTypes\\Program.cs",
-              "RelativeToolTip": "..\\PB503-DataTypes-Condition-Loop-main\\PB503DataTypes\\PB503DataTypes\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAHAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:20:56.11Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,7 +28,7 @@
               "RelativeDocumentMoniker": "Exercise2\\Program.cs",
               "ToolTip": "C:\\Users\\hzade\\Desktop\\Backend\\Exercise2\\Exercise2\\Program.cs",
               "RelativeToolTip": "Exercise2\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T08:35:22.445Z",
               "EditorCaption": ""
